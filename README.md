@@ -11,7 +11,7 @@
 ## 如何快速开始
 > 前置条件：已经配置好了Git与Go相关环境
 ```bash
-$ git clone https://github.com/HengY1Sky/Hertz-Scaffold
+$ git clone https://github.com/diwawa/Hertz-Scaffold
 $ cd Hertz-Scaffold
 $ chmod +x ./build.sh
 $ ./build && ./output/bootstrap_boe.sh # 开始体验
